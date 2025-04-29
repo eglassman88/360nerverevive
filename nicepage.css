@@ -44820,6 +44820,11 @@ a.u-link.u-text-hover-grey-90:hover {
   padding: 0;
 }
 
+.u-footer .u-btn-4 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-footer .u-text-3 {
   font-size: 0.75rem;
   width: 845px;
